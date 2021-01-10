@@ -12,9 +12,9 @@ using Autodesk.AutoCAD.Windows;
 using Autodesk.AutoCAD.EditorInput;
 
 
-namespace RevA
+namespace ObjectModifier
 {
-    public class Class1
+    public class ObjectMod
     {
         private Document Open(string address)
         {

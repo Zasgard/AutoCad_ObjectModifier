@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevA", "RevA\RevA.csproj", "{34B9E8E1-69C2-48F1-B9A3-2E4084AAB8DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectMod", "ObjectModifier\ObjectModifier.csproj", "{34B9E8E1-69C2-48F1-B9A3-2E4084AAB8DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
